@@ -1,0 +1,47 @@
+<group>
+	<GraphDisp>
+		<Radius>131.122</Radius>
+		<BarHeight>89.0306</BarHeight>
+		<BarWidth_Btm>15.8316</BarWidth_Btm>
+		<BarWidth_Top>1.42857</BarWidth_Top>
+		<b_GainAdjust>0</b_GainAdjust>
+		<AudioSample_Amp>0.0602041</AudioSample_Amp>
+	</GraphDisp>
+	<FilterSetting>
+		<CutOff_From>1</CutOff_From>
+		<CutOff_To>20</CutOff_To>
+		<k_LPF>0.065</k_LPF>
+		<NonLinear_Range>0</NonLinear_Range>
+		<k_LPF_Gain>0.065</k_LPF_Gain>
+	</FilterSetting>
+	<Graph_Animation>
+		<b_phaseRotation>1</b_phaseRotation>
+		<phase_deg>140.309</phase_deg>
+		<Speed>6</Speed>
+		<PhaseNoise_Amp>360</PhaseNoise_Amp>
+		<PhaseNoise_sec>5</PhaseNoise_sec>
+	</Graph_Animation>
+	<BarColor>255, 88, 62, 238</BarColor>
+	<Logo>
+		<LogoScale>0.352551</LogoScale>
+		<Time_x>25</Time_x>
+		<Time_y>-9</Time_y>
+	</Logo>
+	<Total_Animation>
+		<Noise_Amp>59.1837</Noise_Amp>
+		<Noise_Speed>5.28571</Noise_Speed>
+		<b_fftSync>1</b_fftSync>
+		<fftSync_Amp>0.1</fftSync_Amp>
+	</Total_Animation>
+	<Speed_thresh>0.2</Speed_thresh>
+	<friction_sec>0.0991</friction_sec>
+	<Force_Scale>0.00019</Force_Scale>
+	<particle>
+		<ParticleSize>2</ParticleSize>
+		<color>0.947938, 0.5, 0.245106, 0.5</color>
+	<Speed_thresh>0.2</Speed_thresh>
+		<friction_sec>0.0991</friction_sec>
+		<Force_Scale>0.00019</Force_Scale>
+	</particle>
+<group/>
+</group>
